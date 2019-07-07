@@ -23,7 +23,6 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"GitGutter",
 		"Vintage"
 	],
 	"remember_open_files": false,
@@ -32,7 +31,7 @@
 		80
 	],
 	"tab_size": 2,
-	"theme": "ayu-dark.sublime-theme",
+	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,

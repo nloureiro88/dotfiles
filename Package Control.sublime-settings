@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"GitGutter"
 	],
 	"installed_packages":
 	[
@@ -13,11 +12,13 @@
 		"Babel",
 		"Emmet",
 		"ERB Snippets",
+		"ESLint",
 		"Git",
-		"GitGutter",
 		"Package Control",
+		"PackageResourceViewer",
 		"SCSS",
 		"SublimeLinter",
+		"SublimeLinter-eslint",
 		"SublimeLinter-rubocop"
 	]
 }
